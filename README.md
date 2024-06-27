@@ -1,18 +1,25 @@
 # ToolboxCyber
 ToolBox Cybersecuriter Sup de Vinci
+# Description
 
 CLEMBOX est une boîte à outils de cybersécurité conçue pour aider les professionnels de la sécurité dans leurs tâches quotidiennes. Elle inclut divers scripts pour des opérations de sécurité courantes telles que les attaques bruteforce SSH, la vérification de mots de passe et la numérisation de réseaux.
 
-Fonctionnalités
-Attaque Bruteforce SSH : Tente d'accéder à un système via SSH en utilisant une liste de noms d'utilisateurs et de mots de passe.
-Vérificateur de Mot de Passe : Valide la robustesse et la conformité des mots de passe avec les politiques de sécurité.
-Scanner de Réseau : Utilise Nmap pour scanner et rapporter les appareils réseau.
-Installation
-Prérequis
-Python 3.x
-Étapes
-Clonez le dépôt :
+# Fonctionnalités
 
+-  Attaque Bruteforce SSH : Tente d'accéder à un système via SSH en utilisant une liste de noms d'utilisateurs et de mots de passe.
+-  Vérificateur de Mot de Passe : Valide la robustesse et la conformité des mots de passe avec les politiques de sécurité.
+-  Scanner de Réseau : Utilise Nmap pour scanner et rapporter les appareils réseau.
+
+# Installation
+
+Prérequis
+
+-  Python 3.x
+  
+Étapes
+
+
+Clonez le dépôt :
 
 git clone https://github.com/Momollait/toolbox-CS-SLD.git
 cd toolbox-CS-SLD
