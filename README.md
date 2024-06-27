@@ -20,8 +20,8 @@ Prérequis
 
 Clonez le dépôt :
 
-git clone https://github.com/Momollait/toolbox-CS-SLD.git
-cd toolbox-CS-SLD
+git clone https://github.com/clementboro13/ToolboxCyber.git
+cd ToolBoxCyber
 
 
 Exécutez la boîte à outils :
